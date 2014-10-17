@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gol:home|Door43 (gol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gol|d43-gol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gol/archive/master.zip|d43-gol.zip]]
+
+**Recent Changes**
+{{changes>ns = gol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gol|Ethnologue data]]
+
